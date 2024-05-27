@@ -13,5 +13,5 @@ Waypoint를 찍어 이동: WaypointMove
 zmp 계산하여 S 계산
 
 # TASK(To Do List)
-1. A* 완성
-2.
+1. A* urdf 파일 적용
+2. 에커먼 조인트 각도 출력
